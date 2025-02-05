@@ -18,7 +18,7 @@ import threading
 # Settings --------------------------------------------------------------------
 
 # HoloLens address
-host = "192.168.1.7"
+host = "192.168.1.40"
 
 # Channel
 # Options:

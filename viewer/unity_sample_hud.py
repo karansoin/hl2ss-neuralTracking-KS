@@ -14,7 +14,7 @@ import hl2ss_rus
 # Settings --------------------------------------------------------------------
 
 # HoloLens address
-host = '192.168.1.7'
+host = '192.168.1.40'
 
 # Position in camera space (x, y, z)
 position = [0,0, 0.5]

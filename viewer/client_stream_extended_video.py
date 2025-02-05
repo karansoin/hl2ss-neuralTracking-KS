@@ -14,7 +14,7 @@ import json
 # Settings --------------------------------------------------------------------
 
 # HoloLens address
-host = "192.168.1.7"
+host = "192.168.1.40"
 
 # Operating mode
 # 0: video
